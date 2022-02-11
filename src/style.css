@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  text-align: justify;
+}
+
+.input1 {
+  margin-left: 5%;
+  font-size: 1.4em;
+
+  padding: 0.3%;
+  border: 1px solid black;
+}
+.input2 {
+  margin-left: 5.9%;
+  font-size: 1.4em;
+
+  padding: 0.3%;
+  border: 1px solid black;
+}
+.input3 {
+  margin-left: 4.5%;
+  font-size: 1.4em;
+
+  padding: 0.3%;
+  border: 1px solid black;
+}
+.label1 {
+  margin-top: 10%;
+  margin-left: 10%;
+  font-size: 1.2em;
+}
+.label2 {
+  margin-left: 10%;
+  font-size: 1.2em;
+  width: 200px;
+}
+.label3 {
+  margin-left: 10%;
+  font-size: 1.2em;
+}
+.button1 {
+  margin-left: 10%;
+  font-size: 1.4em;
+  margin-top: 5%;
+  padding: 0.3%;
+  border: 1px solid black;
+}
+.div1 {
+  margin-top: 3%;
+}
+.div2 {
+  margin-top: 40px;
+}
+.div3 {
+  margin-top: 40px;
+}
+.p1 {
+  margin-left: 10%;
+  font-size: 1.2em;
+  margin-top: 5%;
+}
